@@ -1,7 +1,7 @@
 # sortEmails
 pythonscript welches Emails sortiert 
 
-So funktioniers:
+So funktionierts:
 https://youtu.be/dCP2TYrzMOc
 
 #Benötigte Module
