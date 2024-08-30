@@ -1,5 +1,5 @@
 # sortEmails
-pythonscript welches Emails sortiert 
+pythonscript welches Emails auswertet und sortiert 
 
 So funktionierts:
 https://youtu.be/dCP2TYrzMOc
